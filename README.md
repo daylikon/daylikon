@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @daylikon
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning backend stack (Python + Flask in edu purposes and C# + ASP.NET as preferred dev stack) & load testing (Gatling)
+- 📫 TG/VK: @daylikon
